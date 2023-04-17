@@ -4,49 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5df6ffc8-d308-4aaf-b509-a20871627143" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tolstov_vadim/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/helpers/Attach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/helpers/Regress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ui/LicensedGymnasiumTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ui/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExampleProject/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExampleProject/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExampleProject/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExampleProject/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExampleProject/ExampleProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExampleProject/src/ExampleProject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ExampleProject/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello/Hello.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello/out/production/Hello/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello/out/production/Hello/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello/src/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hello/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loader/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loader/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loader/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loader/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loader/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loader/Loader.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loader/src/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Loader/src/Loader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new" beforeDir="false" afterPath="$PROJECT_DIR$/../new" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sv/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sv/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sv/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sv/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sv/sv.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="5df6ffc8-d308-4aaf-b509-a20871627143" name="Changes" comment="v1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,6 +65,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OSsQ5vVT5RE1XOHyj7CAB1vO4c" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -268,6 +229,14 @@
       <option name="presentableId" value="Default" />
       <updated>1681565300094</updated>
     </task>
+    <task id="LOCAL-00001" summary="v1">
+      <created>1681747565936</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681747565936</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -280,5 +249,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1" />
   </component>
 </project>
